@@ -1,2 +1,2 @@
-# AWS-Amplify-Up-Running
-AWS Amplify Up &amp; Running, published by Packt
+# AWS-Amplify-Up-and-Running
+AWS Amplify Up and Running, published by Packt
